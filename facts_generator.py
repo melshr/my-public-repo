@@ -15,6 +15,8 @@ def class_contributions():
         # ...
 
         ("Mels", "Bananen zijn krom"),
+        ("Ahmed", "Hoi"),
+
     ]
 
     return contributions
