@@ -14,6 +14,7 @@ def class_contributions():
         # 👇 Students, add your entries here:
         # ...
 
+        ("Mels", "Bananen zijn krom"),
     ]
 
     return contributions
